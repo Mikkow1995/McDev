@@ -1512,3 +1512,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [30Jul2025 16:54:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Not a Fluid!]
 [30Jul2025 16:54:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Imbued]
 [30Jul2025 16:55:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set own game mode to Spectator Mode]
+[30Jul2025 16:58:54.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mikolajk moved too quickly! 7.636171075680068,0.0,6.711357472967848
+[30Jul2025 16:58:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Glyph of Glide] to falseKazuM]
+[30Jul2025 16:59:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set own game mode to Creative Mode]
+[30Jul2025 16:59:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Glyph of Launch] to falseKazuM]
+[30Jul2025 16:59:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Glyph of Extend Time] to falseKazuM]

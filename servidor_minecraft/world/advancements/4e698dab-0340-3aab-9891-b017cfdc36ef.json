@@ -1824,6 +1824,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-07-30 16:54:39 +0000"
+    },
+    "done": true
+  },
   "ic2:item_limiter_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 16:56:26 +0000"
@@ -5376,6 +5382,12 @@
     },
     "done": true
   },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-07-30 16:54:10 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-07-28 11:28:32 +0000"
@@ -8066,6 +8078,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/leather": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 17:02:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_nullodermal": {
     "criteria": {
       "has_alt_item": "2025-07-28 17:11:43 +0000"
@@ -9535,6 +9553,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-30 17:02:26 +0000"
     },
     "done": true
   },
@@ -13725,6 +13749,12 @@
   "cfm:recipes/cfm/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2025-07-28 11:44:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-07-30 16:54:26 +0000"
     },
     "done": true
   },

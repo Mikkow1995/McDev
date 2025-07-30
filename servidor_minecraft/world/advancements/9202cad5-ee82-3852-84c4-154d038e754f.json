@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-30 16:56:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
@@ -13117,6 +13123,7 @@
       "minecraft:ice_spikes": "2025-07-28 14:02:19 +0000",
       "minecraft:flower_forest": "2025-07-28 18:07:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-28 22:22:01 +0000",
+      "minecraft:deep_dark": "2025-07-30 16:56:09 +0000",
       "minecraft:meadow": "2025-07-28 20:21:16 +0000",
       "minecraft:plains": "2025-07-28 17:48:42 +0000"
     },
