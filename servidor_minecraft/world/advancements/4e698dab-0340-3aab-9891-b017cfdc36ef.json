@@ -7135,6 +7135,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/limestone": {
+    "criteria": {
+      "has_shell": "2025-07-30 16:44:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/bauble_box": {
     "criteria": {
       "has_item": "2025-07-28 15:37:35 +0000"

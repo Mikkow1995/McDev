@@ -1505,3 +1505,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [30Jul2025 16:31:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Neighborhood Brawl]
 [30Jul2025 16:40:24.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved too quickly! 6.995163257724926,-2.813300504431595,7.01665544476441
 [30Jul2025 16:41:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Captured!]
+[30Jul2025 16:49:28.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Who is Cutting Onions?]
+[30Jul2025 16:52:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Into Fire]
+[30Jul2025 16:54:10.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Archmage Spell Book]
+[30Jul2025 16:54:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Archmage Spell Book] to falseKazuM]
+[30Jul2025 16:54:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Not a Fluid!]
+[30Jul2025 16:54:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Imbued]
+[30Jul2025 16:55:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set own game mode to Spectator Mode]

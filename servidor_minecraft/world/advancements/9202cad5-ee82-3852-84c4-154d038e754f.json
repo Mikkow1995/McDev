@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-30 16:49:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
@@ -1265,6 +1271,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-30 16:52:57 +0000"
+    },
+    "done": true
+  },
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2025-07-28 13:23:19 +0000"
@@ -2442,6 +2454,12 @@
     },
     "done": true
   },
+  "ic2:nuclear_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-28 21:11:07 +0000"
@@ -3368,6 +3386,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-30 16:52:57 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/pride_colorizer_aroace": {
     "criteria": {
       "has_item": "2025-07-28 21:52:31 +0000"
@@ -3810,6 +3834,12 @@
   "ic2:gunpowder_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:compacted_nuclear_jetpack_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:02 +0000"
     },
     "done": true
   },
@@ -4734,6 +4764,12 @@
     },
     "done": true
   },
+  "ic2:nuclear_chargepad_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 12:43:04 +0000"
@@ -4839,6 +4875,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:steam_chamber_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:04 +0000"
     },
     "done": true
   },
@@ -5001,6 +5043,12 @@
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2025-07-30 16:52:57 +0000"
     },
     "done": true
   },
@@ -5355,6 +5403,12 @@
   "croptopia:recipes/croptopia.croptopia/strawberry_smoothie": {
     "criteria": {
       "has_strawberry": "2025-07-28 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/diamond_chest": {
+    "criteria": {
+      "has_gold_gold_chest": "2025-07-30 16:49:57 +0000"
     },
     "done": true
   },
@@ -7544,6 +7598,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-07-30 16:49:57 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_shield_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:42 +0000"
@@ -8371,6 +8431,12 @@
   "ic2:su_battery_5_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:steam_reactor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:02 +0000"
     },
     "done": true
   },
@@ -9812,6 +9878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-30 16:49:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
     "criteria": {
       "has_compass": "2025-07-28 20:46:12 +0000"
@@ -10980,6 +11052,12 @@
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-28 17:31:17 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 16:52:57 +0000"
     },
     "done": true
   },
@@ -12409,6 +12487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 16:52:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-28 20:13:37 +0000"
@@ -12694,6 +12778,12 @@
   "hexcasting:recipes/hexcasting/amethyst_tiles": {
     "criteria": {
       "has_item": "2025-07-28 21:52:31 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/brewing/macerating/blaze_powder": {
+    "criteria": {
+      "has_item": "2025-07-30 16:52:57 +0000"
     },
     "done": true
   },
@@ -13896,6 +13986,12 @@
     },
     "done": true
   },
+  "ic2:nuclear_reactor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:52:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-07-28 13:49:22 +0000"
@@ -14838,6 +14934,12 @@
   "ftbic:recipes/ftbic/shaped/fuse": {
     "criteria": {
       "has_item": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 16:52:57 +0000"
     },
     "done": true
   },
