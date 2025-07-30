@@ -1517,3 +1517,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [30Jul2025 16:59:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set own game mode to Creative Mode]
 [30Jul2025 16:59:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Glyph of Launch] to falseKazuM]
 [30Jul2025 16:59:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Gave 1    [Glyph of Extend Time] to falseKazuM]
+[30Jul2025 17:09:30.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Super Creeps]
+[30Jul2025 17:11:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[30Jul2025 17:12:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Creative Mode]
+[30Jul2025 17:15:41.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved too quickly! 0.521850364502825,-0.07840000152589255,10.071370910428413
