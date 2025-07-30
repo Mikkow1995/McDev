@@ -1503,3 +1503,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [30Jul2025 16:27:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Tree Eater]
 [30Jul2025 16:27:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Singularity Squeeze]
 [30Jul2025 16:31:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Neighborhood Brawl]
+[30Jul2025 16:40:24.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved too quickly! 6.995163257724926,-2.813300504431595,7.01665544476441
+[30Jul2025 16:41:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Captured!]

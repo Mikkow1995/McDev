@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "ic2:uranium__single_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "ic2:extinguish_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 20:19:23 +0000"
@@ -1343,6 +1349,12 @@
     },
     "done": true
   },
+  "ic2:mv_flux_generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:34:33 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_chain": {
     "criteria": {
       "recipe_condition": "2025-07-28 12:40:07 +0000"
@@ -1370,6 +1382,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
     },
     "done": true
   },
@@ -1968,6 +1986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-30 16:42:46 +0000"
+    },
+    "done": true
+  },
   "ic2:plasmafier_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-30 16:27:28 +0000"
@@ -2376,6 +2400,12 @@
     },
     "done": true
   },
+  "ic2:wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-07-28 22:17:54 +0000"
@@ -2490,6 +2520,12 @@
     },
     "done": true
   },
+  "ic2:uranium__single_2_tag_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-07-28 12:36:39 +0000"
@@ -2547,6 +2583,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_solar_panel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:36:58 +0000"
     },
     "done": true
   },
@@ -3771,6 +3813,12 @@
     },
     "done": true
   },
+  "ic2:uranium__near_depleted_tag_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-07-28 12:36:39 +0000"
@@ -4098,6 +4146,12 @@
   "ftbic:recipes/misc/separating/flint": {
     "criteria": {
       "has_item": "2025-07-28 15:03:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_charcoal_near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
     },
     "done": true
   },
@@ -4776,6 +4830,12 @@
     },
     "done": true
   },
+  "ic2:uranium_redstone_near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -4827,6 +4887,12 @@
   "ic2:overclocker_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-30 16:26:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:uesc_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:38:46 +0000"
     },
     "done": true
   },
@@ -5491,6 +5557,12 @@
     },
     "done": true
   },
+  "ic2:uranium__near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
@@ -5716,6 +5788,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-07-28 12:43:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:fertilizer_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:42:46 +0000"
     },
     "done": true
   },
@@ -6250,6 +6328,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
     "criteria": {
       "has_aluminum": "2025-07-28 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_water_mill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:36:58 +0000"
     },
     "done": true
   },
@@ -6937,6 +7021,12 @@
     },
     "done": true
   },
+  "ic2:lv_solar_panel_compressed_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:36:58 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2025-07-28 12:38:51 +0000"
@@ -7375,6 +7465,12 @@
     },
     "done": true
   },
+  "ic2:fuel_cell_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
     "criteria": {
       "has_item": "2025-07-28 12:38:51 +0000"
@@ -7679,6 +7775,12 @@
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2025-07-28 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_ender_near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
     },
     "done": true
   },
@@ -8843,6 +8945,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-30 16:42:46 +0000"
+    },
+    "done": true
+  },
   "ic2:inventory_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 19:33:50 +0000"
@@ -9284,6 +9392,12 @@
     },
     "done": true
   },
+  "ic2:uranium_nether_star_near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-07-28 12:34:24 +0000"
@@ -9383,6 +9497,12 @@
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_blaze_near_depleted_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
     },
     "done": true
   },
@@ -9804,6 +9924,12 @@
   "ic2:transformer_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-07-30 16:35:39 +0000"
     },
     "done": true
   },
@@ -10766,6 +10892,12 @@
     },
     "done": true
   },
+  "ic2:pump_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "ic2:simple_export_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 23:08:52 +0000"
@@ -10938,6 +11070,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/bone_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 16:42:46 +0000"
     },
     "done": true
   },
@@ -11903,6 +12041,12 @@
     },
     "done": true
   },
+  "ic2:bio_cell_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-07-28 13:44:07 +0000"
@@ -12280,6 +12424,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/vortex_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
     },
     "done": true
   },
@@ -12727,6 +12877,12 @@
     },
     "done": true
   },
+  "ic2:hydrated_coal_cell_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-07-28 12:42:39 +0000"
@@ -12939,6 +13095,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-07-28 21:03:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:esu_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:38:46 +0000"
     },
     "done": true
   },
@@ -13941,6 +14103,12 @@
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:adjustable_transformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-30 16:36:58 +0000"
     },
     "done": true
   },
@@ -14982,6 +15150,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2025-07-28 17:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-30 16:42:46 +0000"
     },
     "done": true
   },
