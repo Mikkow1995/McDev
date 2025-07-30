@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_door": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-07-28 22:26:23 +0000"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
+    },
+    "done": true
+  },
   "ic2:obsidian_magma_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 21:56:27 +0000"
@@ -584,6 +596,12 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
     },
     "done": true
   },
@@ -938,6 +956,12 @@
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_planks": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-07-30 16:31:33 +0000"
     },
     "done": true
   },
@@ -2815,6 +2839,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000",
+      "has_block": "2025-07-30 16:25:36 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/coal_ball": {
     "criteria": {
       "has_item": "2025-07-28 11:51:30 +0000"
@@ -3160,6 +3191,12 @@
   "botania:recipes/botania/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-07-28 15:37:35 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
@@ -3575,6 +3612,12 @@
   "ars_elemental:summon_strider": {
     "criteria": {
       "summon_strider": "2025-07-28 21:29:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-30 16:26:59 +0000"
     },
     "done": true
   },
@@ -4925,6 +4968,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-30 16:26:59 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/gas_lift": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
@@ -5405,6 +5454,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/atomizer": {
     "criteria": {
       "has_item": "2025-07-28 11:58:51 +0000"
@@ -5414,6 +5469,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-07-28 23:10:36 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/anvil_cart": {
+    "criteria": {
+      "criterion0": "2025-07-30 16:32:16 +0000"
     },
     "done": true
   },
@@ -7225,6 +7286,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-07-28 23:10:36 +0000"
@@ -7837,6 +7904,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-07-30 16:25:55 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2025-07-28 14:05:57 +0000"
@@ -7852,6 +7925,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-07-28 13:20:04 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
@@ -7972,6 +8051,13 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000",
+      "has_block": "2025-07-30 16:25:36 +0000"
     },
     "done": true
   },
@@ -8203,6 +8289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-28 21:24:24 +0000"
@@ -8269,6 +8361,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 22:26:23 +0000"
@@ -8284,6 +8382,12 @@
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2025-07-28 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-07-30 16:33:36 +0000"
     },
     "done": true
   },
@@ -8602,6 +8706,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_blue": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-28 13:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
     },
     "done": true
   },
@@ -10314,6 +10424,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_ingot": {
     "criteria": {
       "has_item": "2025-07-28 22:52:59 +0000"
@@ -10425,6 +10541,12 @@
   "elementalcraft:pickup/rune": {
     "criteria": {
       "has_rune": "2025-07-28 14:13:33 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
@@ -12252,6 +12374,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 22:09:47 +0000"
@@ -12845,6 +12973,12 @@
   "cfm:recipes/cfm/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 22:34:14 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
@@ -13793,6 +13927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
+    },
+    "done": true
+  },
   "ic2:solar_panel_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 22:26:23 +0000"
@@ -13983,6 +14123,12 @@
   "ic2:tin_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:14:38 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
@@ -15010,6 +15156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 16:25:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_green_r": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 15:56:41 +0000"
@@ -15868,6 +16020,12 @@
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-07-28 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_boat": {
+    "criteria": {
+      "has_planks": "2025-07-30 16:25:08 +0000"
     },
     "done": true
   },
